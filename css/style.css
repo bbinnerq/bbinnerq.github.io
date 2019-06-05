@@ -782,6 +782,11 @@ body.offcanvas {
   margin: 0;
   padding: 0; }
 
+.colorlib-icon.workmio img{
+  height:50px;
+  width:auto;
+}
+
 .colorlib-feature-lg .colorlib-text h3 {
   font-weight: 500;
   margin-bottom: 20px;
